@@ -1,7 +1,0 @@
-
-target 'ASPriorityQueue', :exclusive => true do
-  pod "ASPriorityQueue", :path => "../"
-
-  pod 'Specta', '~> 0.2.1'
-  pod 'Expecta'
-end

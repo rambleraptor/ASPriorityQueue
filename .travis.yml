@@ -1,5 +1,0 @@
-# reference: http://www.objc.io/issue-6/travis-ci.html
-
-language: objective-c
-script:
-- xctool test -workspace Example/ASPriorityQueue.xcworkspace -scheme ASPriorityQueue -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
